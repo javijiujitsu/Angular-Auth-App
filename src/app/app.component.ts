@@ -13,6 +13,7 @@ export class AppComponent implements OnInit {
     username: '',
     password: ''
   };
+
   error: string;
   privateData: any = '';
 
